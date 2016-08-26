@@ -1,0 +1,2 @@
+# i.MX6UL-SOM-for-IoT-Gateway-SOM
+iWave Systems Technologies Pvt. Ltd, a genuine embedded service provider, today announced it has joined Microsoft Azure Certified for Internet of Things (IoT), ensuring customers get IoT solutions up and running quickly with hardware and software that has been pre-tested and verified to work with Microsoft Azure IoT services. Microsoft Azure Certified for IoT allows businesses to reach customers where they are, working with an ecosystem of devices and platforms, allowing for faster time to production.
